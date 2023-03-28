@@ -1,0 +1,6 @@
+abstract class OperationsDetailsScreenState {}
+class InitialState extends OperationsDetailsScreenState{}
+class FetchOperationDetailsSuccessState extends OperationsDetailsScreenState{}
+class FetchOperationDetailsLoadingState extends OperationsDetailsScreenState{}
+class FetchOperationDetailsErrorState extends OperationsDetailsScreenState{}
+

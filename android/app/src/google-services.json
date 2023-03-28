@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995232554341",
+    "project_id": "banhawy-9feac",
+    "storage_bucket": "banhawy-9feac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995232554341:android:56bb5397f491446fa5d58c",
+        "android_client_info": {
+          "package_name": "com.example.banhawy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995232554341-ljr3oj055netfft9vlvjpmqhlq72reg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXNgyGaTPLUbdk8oXn2FC8DXBCb0TEYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995232554341-ljr3oj055netfft9vlvjpmqhlq72reg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
